@@ -41,4 +41,4 @@ BKCellMapping is an IOS library that help using table view, he map data from ana
     	return [self.items objectAtIndex:indexPath.row];
 	}
 
-That it !
+That it's !
