@@ -1,6 +1,6 @@
-BKCellMapping is an IOS library that help using table view, he map data from anay object to any cell.
+BKCellMapping is an IOS library that help use of table view.
 
-### Setting item objects
+### Set items
 
     self.items = [NSArray arrayWithObjects:
                   [Item itemWithTitle:@"Movie1" subtitle:@"First movie" type:@"movie"],
@@ -41,4 +41,4 @@ BKCellMapping is an IOS library that help using table view, he map data from ana
     	return [self.items objectAtIndex:indexPath.row];
 	}
 
-That it's !
+That's it.
