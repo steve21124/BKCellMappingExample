@@ -3,7 +3,7 @@ BKCellMapping is an IOS library that help use of table view.
 
 ### Warning
 
-This project has been merged into [BaseKit library](This project has moved to [BaseKit](https://github.com/brunow/BaseKit/tree/master/Examples/CellMappingExample).
+This project has been merged into [BaseKit library](This project has moved to https://github.com/brunow/BaseKit
 
 ### Set items
 
